@@ -33,3 +33,17 @@ Three-model audit of checkin feature PR-readiness (Opus, GPT-5.5, Sonnet). Findi
 [Fix file permissions in CLI checkin](fix-file-permissions-in-cli-checkin)
 
 [Narrow README claims to current scope](narrow-readme-claims-to-current-scope)
+
+## Pre-PR Housekeeping
+
+[Remove debug Println statements](remove-debug-println-statements)
+
+[Normalize exit codes](normalize-exit-codes)
+
+[Rebase onto upstream main](rebase-onto-upstream-main)
+
+[Add GitHub Actions CI](add-github-actions-ci)
+
+## Resolved
+
+[PR strategy decided](pr-strategy-decided)
